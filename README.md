@@ -12,13 +12,13 @@
 
 _Homeassistant Custom Component which adds a Route Sensor to [HERE Travel Time](https://www.home-assistant.io/integrations/here_travel_time/)._
 
+![example][exampleimg]
+
 ## Important Information
 
 **This component is only for ADVANCED users.**
 
 **This will override the core integration.**
-
-![example][exampleimg]
 
 ## Why?
 
