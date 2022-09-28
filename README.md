@@ -18,7 +18,7 @@ _Homeassistant Custom Component which adds a Route Sensor to [HERE Travel Time](
 
 **This will override the core integration.**
 
-[!example][exampleimg]
+![example][exampleimg]
 
 ## Why?
 
@@ -42,10 +42,10 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 [buymecoffee]: https://www.buymeacoffee.com/eifinger
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
 [commits-shield]: https://img.shields.io/github/commit-activity/y/custom-components/blueprint.svg?style=for-the-badge
-[commits]: https://github.com/eifinger/here_travel_time_route_sensor/commits/master
+[commits]: https://github.com/eifinger/here_travel_time_route_sensor/commits/main
 [customupdater]: https://github.com/custom-components/custom_updater
 [customupdaterbadge]: https://img.shields.io/badge/custom__updater-true-success.svg?style=for-the-badge
-[exampleimg]: https://github.com/eifinger/here_travel_time_route_sensor/blob/master/route_sensor.png?raw=true
+[exampleimg]: https://github.com/eifinger/here_travel_time_route_sensor/blob/main/route_sensor.png?raw=true
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/t/custom-component-here-travel-time/125908
 [license-shield]: https://img.shields.io/github/license/eifinger/here_travel_time_route_sensor.svg?style=for-the-badge
